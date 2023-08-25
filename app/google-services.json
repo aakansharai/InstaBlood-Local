@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796528116738",
+    "project_id": "instablood-381710",
+    "storage_bucket": "instablood-381710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796528116738:android:995b5d030200a36ae8931b",
+        "android_client_info": {
+          "package_name": "com.example.blooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796528116738-mq6ctcl0rtn6gjrkf3lc2910biko22ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA44LyMP-OZnVwHumR_K6ChkPSZF0ZXj_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796528116738-mq6ctcl0rtn6gjrkf3lc2910biko22ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

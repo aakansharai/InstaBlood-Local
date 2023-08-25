@@ -1,0 +1,57 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BloodDonation</string>
+    <string name="tag_line">Tears of a mother cannot save the life of a kid, \n but your <string name="blood"> blood </string> can.</string>
+    <string name="app_title">INSTA BLOOD</string>
+    <string name="createAccount">Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="bottom_text"><u> Help us to get better this world </u></string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="contact_no">Contact no.</string>
+    <string name="aadhar_no">Aadhar no.</string>
+    <string name="location">Preferred Location for donation</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="signin_to_resister">Don\'t have account? <b>Create</b></string>
+
+<!--    IMAGE SELECTED -->
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="bloodGroup">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>New delhi</item>
+        <item>Sangam Vihar</item>
+        <item>Saket</item>
+        <item>Gobind puri</item>
+        <item>Nehru place</item>
+        <item>Okhla</item>
+        <item>South Delhi</item>
+        <item>North delhi</item>
+    </string-array>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="profile">Aakansha Rai</string>
+    <string name="rewards">Your Rewards</string>
+    <string name="recorde">Donation Records</string>
+    <string name="signout">Sign Out</string>
+    <string name="available_for_donate">Available to Donate</string>
+    <string name="not_available_for_donate">Not Available to Donate</string>
+    <string name="trunOff">Are you not available for Donating Blood ?</string>
+    <string name="turnOn">Will you be available for donating blood ?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
